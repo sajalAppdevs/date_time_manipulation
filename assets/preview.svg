@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300" viewBox="0 0 400 300">
+  <!-- Background -->
+  <rect width="100%" height="100%" fill="#f8f0fc"/>
+  
+  <!-- Title -->
+  <text x="50" y="50" font-family="Arial" font-size="24" fill="#333">
+    Date &amp; Time Package
+  </text>
+  
+  <!-- Time Display Box -->
+  <g transform="translate(50, 80)">
+    <rect width="300" height="100" rx="15" fill="#4c6ef5"/>
+    <text x="150" y="40" font-family="Arial" font-size="16" fill="white" text-anchor="middle">
+      Current Time
+    </text>
+    <text x="150" y="70" font-family="Arial" font-size="24" fill="white" text-anchor="middle">
+      11:00:17 AM
+    </text>
+  </g>
+  
+  <!-- Date Picker Button -->
+  <g transform="translate(50, 200)">
+    <rect width="150" height="40" rx="20" fill="#7950f2"/>
+    <text x="75" y="25" font-family="Arial" font-size="16" fill="white" text-anchor="middle">
+      📅 Pick a Date
+    </text>
+  </g>
+</svg>
