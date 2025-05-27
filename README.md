@@ -4,7 +4,7 @@
 
 A Flutter package that provides elegant and user-friendly widgets for date and time manipulation, including a current time display and date picker functionality.
 
-![Date & Time Package Preview](assets/preview.png)
+![Date & Time Package Preview](assets/preview.svg)
 
 ## Features
 
